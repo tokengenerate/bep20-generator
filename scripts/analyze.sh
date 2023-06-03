@@ -10,3 +10,4 @@ do
 
   npx sol2uml dist/$contract.dist.sol -o analysis/uml/$contract.svg
 done
+

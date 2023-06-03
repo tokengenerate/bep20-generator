@@ -5,3 +5,4 @@ if [ "$SOLC_NIGHTLY" = true ]; then
 fi
 
 npx truffle compile --all
+

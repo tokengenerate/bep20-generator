@@ -57,3 +57,4 @@ fi
 npx truffle version
 
 npx truffle test "$@"
+

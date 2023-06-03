@@ -6,3 +6,4 @@ do
 done
 
 npx truffle-flattener contracts/service/ServiceReceiver.sol > dist/ServiceReceiver.dist.sol
+
