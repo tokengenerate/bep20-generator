@@ -6,6 +6,8 @@
 
 The new Smart Contract Generator for BEP20 Token.
 
+Create BEP20 Token Now!
+
 ## Try it
 
 [https://tokengenerate.github.io/bep20-generator](https://tokengenerate.github.io/bep20-generator)
